@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "RBT2408::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-RBT2408-Debug-d6a110f62b83982df9fa.json",
+					"jsonFile" : "target-RBT2408-Debug-034306acd9f8902f3bea.json",
 					"name" : "RBT2408",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 6
 	}
 }

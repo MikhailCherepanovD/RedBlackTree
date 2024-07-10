@@ -15,7 +15,6 @@ void PrintMenu() {
 }
 
 int main() {
-    cout<<210*15*2*3*4<<endl;
     std::string s = "abc";
     RBTree<std::string> *tree = new RBTree<std::string>(s);
 
