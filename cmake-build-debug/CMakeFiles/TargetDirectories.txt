@@ -1,3 +1,0 @@
-/home/mikhail/Разработка/Clion/RBT2408/cmake-build-debug/CMakeFiles/RBT2408.dir
-/home/mikhail/Разработка/Clion/RBT2408/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mikhail/Разработка/Clion/RBT2408/cmake-build-debug/CMakeFiles/rebuild_cache.dir
