@@ -4,7 +4,7 @@ Implementation Red Black Tree on C++.
 
 About Red Black Tree: [here](https://en.wikipedia.org/wiki/Red–black_tree);
 
-Time complicity:
+Time complexiity:
 
 Search: O(log(N));
 
